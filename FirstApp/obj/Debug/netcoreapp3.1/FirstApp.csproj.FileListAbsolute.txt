@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\ASUS\Desktop\C#\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache
